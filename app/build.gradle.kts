@@ -65,6 +65,9 @@ dependencies {
     implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.animation.graphics)
     implementation(libs.lottie.compose)
+
+    implementation("com.google.accompanist:accompanist-permissions:0.31.1-alpha") // For permissions
+
     implementation(libs.androidx.constraintlayout.compose.android)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
