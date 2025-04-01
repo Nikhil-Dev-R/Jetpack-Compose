@@ -82,7 +82,7 @@ class MainActivity : ComponentActivity() {
             PracticeTheme {
                 PermissionsScreen()
 //                RequestPermissionsActivity()
-//                DetailScreen()
+                DetailScreen()
 //                PracticeApp(
 //                    modifier = Modifier
 //                )
